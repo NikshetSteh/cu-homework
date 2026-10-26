@@ -1,0 +1,4 @@
+RANGE|single.txt|5|5|-1
+REPEAT|negative.txt|-7|1
+ALTERNATE|single-alternate.txt|10|20|1
+RANGE|negative-range.txt|-5|-1|2

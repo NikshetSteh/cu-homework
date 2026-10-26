@@ -1,0 +1,7 @@
+CONSOLE
+test-output/console
+RANGE|evens.txt|2|10|2
+RANGE|decrease.txt|5|-1|-2
+REPEAT|zeros.txt|0|4
+ALTERNATE|flags.txt|1|0|6
+END
