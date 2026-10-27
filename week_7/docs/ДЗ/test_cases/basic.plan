@@ -1,0 +1,5 @@
+RANGE|evens.txt|2|20|2
+REPEAT|zeros.txt|0|5
+ALTERNATE|flags.txt|1|0|8
+REPEAT|hundreds.txt|100|3
+RANGE|decrease.txt|5|-1|-2

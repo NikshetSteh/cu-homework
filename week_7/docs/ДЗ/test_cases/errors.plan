@@ -1,0 +1,8 @@
+BROKEN
+REPEAT|zero.txt|5|0
+ALTERNATE|bad-alternate.txt|1|0|0
+RANGE|bad-step.txt|1|10|0
+RANGE|bad-direction.txt|10|1|2
+RANGE|bad-number.txt|a|10|1
+RANGE|valid.txt|-2|2|2
+REPEAT|valid-repeat.txt|7|2
